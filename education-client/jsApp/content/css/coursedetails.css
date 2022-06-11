@@ -1,0 +1,36 @@
+#courseTitle{
+  display:flex;
+  flex-direction: flex-start;
+  color: Black;
+  margin-bottom: 1rem;
+}
+.courseData{
+  display: flex;
+  flex-direction: column;
+  margin: 2rem 4rem 0rem 2rem;
+  border: 1cm;
+  border-color: red;
+}
+.displayCourseData{
+  margin-top: 0.3rem;
+}
+.course-details{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  margin: 1rem 1rem, 0rem, 0rem;
+}
+
+.course-description{
+  display:flex;
+  border-radius: 20px;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 1rem;
+  flex: 1;
+}
+.imagebox{
+  display:flex;
+  flex: 1;
+}
