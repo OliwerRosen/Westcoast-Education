@@ -1,0 +1,9 @@
+/* Deklarera variabler för CSS */
+
+:root {
+  --primary-color: #2196f3;
+  --secondary-color: rgba(18, 19, 59, 0.87);
+  --primary-text-color: rgb(160, 95, 95);
+  --secondary-text-color: #11c511c0;
+  --border-color: #0004fd81;
+}

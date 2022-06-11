@@ -1,0 +1,50 @@
+[
+  {
+    "Id" : 1,
+    "FirstName" : "Kalle",
+    "LastName" : "Svensson",
+    "Email" : "Kalle@email.com",
+    "PhoneNr" : "0707793121",
+    "Address" : "Stenvägen 3"
+  },
+  {
+    "Id" : 2,
+    "FirstName" : "Stina",
+    "LastName" : "Sturesson",
+    "Email" : "Stinasmail@email.com",
+    "PhoneNr" : "08-7658425",
+    "Address" : "Bärstigen 3"
+  },
+  {
+    "Id" : 3,
+    "FirstName" : "Pelle",
+    "LastName" : "Äppelgren",
+    "Email" : "PelleAppelgren@email.com",
+    "PhoneNr" : "05-478865295",
+    "Address" : "Survägen 3"
+  },
+  {
+    "Id" : 4,
+    "FirstName" : "Nisse",
+    "LastName" : "Nilsson",
+    "Email" : "NisseN@email.com",
+    "PhoneNr" : "2547785685",
+    "Address" : "Gråstigen 34A"
+  },
+  {
+    "Id" : 5,
+    "FirstName" : "Sune",
+    "LastName" : "Johansson",
+    "Email" : "SuneJ@email.com",
+    "PhoneNr" : "08-547758154",
+    "Address" : "Bärstigen 35"
+  },
+  {
+    "Id" : 6,
+    "FirstName" : "Maja",
+    "LastName" : "Nilsson",
+    "Email" : "MajaN@email.com",
+    "PhoneNr" : "070-5589475",
+    "Address" : "Visbyvägen 27"
+  }
+]
